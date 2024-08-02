@@ -1,0 +1,24 @@
+
+# Ignore OS specific files
+.directory
+Thumbs.db
+.DS_Store
+._*
+README.html
+
+__pycache__
+
+# Ignore contents of the folder
+/weights/*
+
+# But track the folder itself
+!/weights/
+
+# Ignore HTML files in /docs/ folder
+/docs/*.html
+
+# Ignore HTML and txt files in /notebooks/ folder
+/notebooks/*.html
+/notebooks/*.txt
+
+.ipynb_checkpoints

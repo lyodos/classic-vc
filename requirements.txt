@@ -1,0 +1,8 @@
+librosa==0.10.1
+matplotlib==3.8.4
+numpy==2.0.0
+omegaconf==2.3.0
+scipy==1.14.0
+torch==2.3.0+cu121
+torchaudio==2.3.0+cu121
+transformers==4.42.3

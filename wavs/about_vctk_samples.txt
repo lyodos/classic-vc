@@ -1,0 +1,32 @@
+このフォルダ内の音声は、VC の訓練過程で音声読み込みが正常に動作していることを示すために使用されます。
+このフォルダ内の各音声サンプルは VCTK コーパスからの抜粋であり、以下に示す ODC-By 1.0 ライセンスに従い再配布が許可されています。
+
+
+----
+
+以下
+http://www.udialogue.org/ja/download-ja/cstr-vctk-corpus.html
+より
+
+CSTR VCTK Corpus 
+English Multi-speaker Corpus for CSTR Voice Cloning Toolkit 
+
+ダウンロード
+http://www.udialogue.org/download/VCTK-Corpus.tar.gz (10.4GB)
+
+COPYING
+This corpus is licensed under Open Data Commons Attribution License (ODC-By) v1.0.
+http://opendatacommons.org/licenses/by/1.0/
+http://opendatacommons.org/licenses/by/summary/
+
+ACKNOWLEDGEMENTS
+The CSTR VCTK Corpus was constructed by:
+Christophe Veaux (University of Edinburgh)
+Junichi Yamagishi (University of Edinburgh)
+Kirsten MacDonald
+
+The research leading to these results was partly funded from EPSRC grants EP/I031022/1 (NST) and EP/J002526/1 (CAF), from the RSE-NSFC grant (61111130120), and from the JST CREST (uDialogue).
+
+配布元
+http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html 
+ 
