@@ -21,14 +21,14 @@ Lyodos (Lyodos the City of the Museum)
 ClassicVC **(Continuous LAtent-Space-based Style Inference with Content for Voice Conversion)** は連続潜在空間ベースの any-to-any voice conversion の研究を目的として、
 概念実証のために試作された声質変換モデルです。PyTorch で開発されています。
 
-GUI として [MMCXLI](https://github.com/lyodos) が用意されています。
+GUI として [MMCXLI](https://github.com/lyodos/mmcxli) が用意されています。
 MMCXLI を使って VC を試したいだけであれば、PyTorch の導入は不要です。本リポジトリで公開されている、
 [ONNX 形式に変換したネットワーク](#onnx)をダウンロードしてください。
 継続学習や ClassicVC モデル自体の改造が必要な方のみ、PyTorch 用のモデルをダウンロードしてください。
 
 ClassicVC is an any-to-any voice conversion model that enables users to make up speaker styles by selecting the coordinates from the continuous latent spaces. The model components are implemented using PyTorch and fully compatible with ONNX.
 
-[MMCXLI](https://github.com/lyodos) provides the dedicated graphical user interface (GUI) for ClassicVC. It runs on wxPython and ONNX Runtime. Users can [download the ONNX network files](#onnx) and try out speech conversion without having to install PyTorch or train a model with their own voice data.
+[MMCXLI](https://github.com/lyodos/mmcxli) provides the dedicated graphical user interface (GUI) for ClassicVC. It runs on wxPython and ONNX Runtime. Users can [download the ONNX network files](#onnx) and try out speech conversion without having to install PyTorch or train a model with their own voice data.
 
 ***使用方法が分からないといった問い合わせや、取材にはいっさい応じません。***
 
